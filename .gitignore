@@ -25,3 +25,5 @@ hs_err_pid*
 
 # Testing environment
 /src/test/
+build/
+.gradle/
